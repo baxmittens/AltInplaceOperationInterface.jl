@@ -3,7 +3,5 @@ uuid = "6bae1f5e-a943-11ed-0d2b-5515437897b0"
 version = "0.0.1"
 authors = ["baxmittens <maximilian.bittens@bgr.de>"]
 
-[deps]
-
 [compat]
 julia = "1"
